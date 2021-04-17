@@ -764,6 +764,9 @@ header {
 	.section-1{
 		flex-direction: column;
 	}
+	.description {
+		font-size: 21px;
+	}
 	.planet-img {
 		width: 100%;
 		text-align: center;
