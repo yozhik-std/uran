@@ -1039,3 +1039,11 @@ header {
 	text-shadow: 0 0 2px #fdee8e;
 
 }
+.facts-title {
+	transition: 0.8s;
+	cursor: pointer;
+}
+.facts-title:hover {
+	font-size: 26px;
+	text-decoration: underline;
+}
